@@ -11,7 +11,7 @@ Other Included:
 - Credits
 
 Login:
-UserName: ITEC21
-Password: 12345
+- UserName: ITEC21
+- Password: 12345
 
 Microsoft Visual Studio Version: 2017
