@@ -1,4 +1,4 @@
-Games project with login using microsoft visual studio C#.
+# Games project with login using microsoft visual studio C#.
 
 List of Games:
 - Tic Tac Toe
